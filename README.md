@@ -16,9 +16,6 @@ Its a python script that automatically fetch members from any telegram group and
 1. Have python installed on your machine lol.
 2. Go to https://my.telegram.org, login with your number to get your API_ID and API_HASH.
 3. Run the python script on your terminal or cmd and follow the procedures :)... simple!!!
-git clone https://github.com/legendpk/telegramAdder.git
-cd telegramAdder
-python tele_adder.py
 
 
 ```git clone https://github.com/legendpk/telegramAdder.git
