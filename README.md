@@ -20,7 +20,8 @@ Its a python script that automatically fetch members from any telegram group and
 5. cd telegramAdder
 6. python tele_adder.py
 
-Note:- For Logout
+
+Note:- For Logout \n
 rm -rf ~/telegramAdder/getmem_log.txt
 rm -rf ~/telegramAdder/anon.session
 
