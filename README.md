@@ -18,7 +18,8 @@ Its a python script that automatically fetch members from any telegram group and
 3. Run the python script on your terminal or cmd and follow the procedures :)... simple!!!
 
 
-```git clone https://github.com/legendpk/telegramAdder.git
+```
+git clone https://github.com/legendpk/telegramAdder.git
 cd telegramAdder
 python tele_adder.py
 
